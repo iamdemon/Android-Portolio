@@ -14,4 +14,6 @@ Application will show you the all the songs which are available in your phone us
 
 ### Technolgies : Android SDK , Java, Xml
 
-
+<p align="center">
+<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
+</p>
