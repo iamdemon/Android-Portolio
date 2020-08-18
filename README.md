@@ -17,3 +17,13 @@ Application will show you the all the songs which are available in your phone us
 <p align="center">
 <img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
 </p>
+
+# Stry Application (Educational Application)
+
+This application is still in developement and i was on contract based android application where i make quiz , statistics , overlay window and fix some errors in different sections of the app.
+
+Application is for the students which contains questions in a quiz wrapped in a package, also teacher can create packages with number of questions in it's answer and those package will get converted in the quiz and these packages will be available in the package market in the application. There are other useful features in application like floating window where user can enable and give answer while he is outside of the application and other features like sharing packages and give review to packages.
+
+### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM
+
+
