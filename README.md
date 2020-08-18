@@ -26,4 +26,6 @@ Application is for the students which contains questions in a quiz wrapped in a 
 
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM
 
-
+<p align="left">
+<img src="images/stry app/Artboard – 1@2x.png" width="720"  title="Stry Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stry app/stry video.gif" width="200" title="Word Guess">
+</p>
