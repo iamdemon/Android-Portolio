@@ -26,10 +26,13 @@ Application is for the students which contains questions in a quiz wrapped in a 
 
 ### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM
 
-<p align="left">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/stry app/stry video.gif" width="190" title="Word Guess">
+<p align="center">
+<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
 </p>
 
+<p align="center">
+<img src="images/stry app/stry video.gif" width="190" title="Word Guess">
+</p>
 
 # Storyfy Application
 
@@ -39,8 +42,10 @@ Application uses firebase to store stories and also it show different twist acco
 
 ### Technolgies : Android SDK , Java, Xml, Firebase
 
-<p align="left">
-<img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
+<p align="center">
+<img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-
+<p align="center">
+<img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
+</p>
