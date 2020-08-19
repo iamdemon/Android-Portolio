@@ -58,6 +58,6 @@ Application uses retrofit, data binding and Rx java for calling api and fetch al
 ### Technolgies : Android SDK , Kotlin, Xml, RxJava
 
 <p align="center">
-<img src="images/Covid app/Artboard – 1@2x.png" width="600"  title="Storyfy Application">
-  <img src="images/Covid app/covid video.gif" width="215" title="Storyfy">
+<img src="images/Covid app/Artboard – 1@2x.png" width="480"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
 </p>
