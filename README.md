@@ -49,3 +49,15 @@ Application uses firebase to store stories and also it show different twist acco
 <p align="center">
 <img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
 </p>
+
+# Covid Tracker
+
+I build this application when i was doing a challenge at topcoder where i have apis for the covid-19 data so this application used to track cases all over the world.
+Application uses retrofit, data binding and Rx java for calling api and fetch all the data in order to show on the list. I used graph also for indicating number of cases, deaths and confirmd cases all over the world. Youn can also see data particular to a country.
+
+### Technolgies : Android SDK , Kotlin, Xml, RxJava
+
+<p align="center">
+<img src="images/Covid app/Artboard – 1@2x.png" width="600"  title="Storyfy Application">
+  <img src="images/Covid app/covid video.gif" width="215" title="Storyfy">
+</p>
