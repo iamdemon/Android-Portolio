@@ -61,3 +61,23 @@ Application uses retrofit, data binding and Rx java for calling api and fetch al
 <img src="images/Covid app/Artboard – 1@2x.png" width="480"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
 </p>
+
+
+## Some Cool Projects :smile:
+
+### Computer controller
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/file/d/10clWduncP0a4BY9wJDU3ncJ9-e4sbteW/view) 
+
+Application is used to control keyboard and mouse in the computer using android phone , you need to install server application in computer and apk in android, in order to work the application your both devices should be in the same network.You can even play games using grysensor in android.
+
+### Computer vision controller
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://drive.google.com/open?id=1SbcrwfzXhUZwYGfqmsB1J5maa8Ju0ww9) 
+
+You can use single paper to control the game, you just need to show paper in front of camera and move to different direction in order to control the game.
+This application is using the opencv for performing computer vision algorithms it is used to caputure the color and also calcualte of distance where paper is moved and then converting coordinate into game coordinate and press the butttons for controlling the game.
+
+
+
+## Thanks for stopping by!
+  
+
